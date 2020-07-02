@@ -1,0 +1,33 @@
+﻿$marginAuto: 0px auto;
+
+html {height:100%;font:100% sans-serif;background:#eaeaea;}
+body {
+    width:70%;
+	min-height:calc(100% - 2rem - 2px);
+	margin:10px auto;
+	padding:20px 2.5% 2rem 2.5%;
+	max-width:50rem;
+	border-radius:0.625rem;
+	box-shadow: 0.3rem 0.4rem 0.5rem #ccc;
+    background:#fff;
+    color:#333;
+}
+
+#tudo {
+	width:600px;
+	padding: 10px;
+	margin:$marginAuto;
+	background:#fff;
+    text-align: center;
+	}
+.foto {border:none;}
+
+#tela {
+	width:80%;
+	height:375px;
+	margin: $marginAuto;
+	}
+#galeria{
+		text-align: center;
+	}
+
